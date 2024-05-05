@@ -41,6 +41,7 @@ You can open an issue to request more crates.
 
 ## Run locally
 
+
 You can run the client locally by cloning the repository and running the following commands in the project directory.
 
 Setup and start the dev server:
